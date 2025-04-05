@@ -24,8 +24,10 @@ Install dependencies:
 pip install pyTelegramBotAPI
 Installation
 Clone the repository:
-it clone https://github.com/username/fts-email-bot.git
+https://github.com/DoomDay53/smtp-sender.git
 cd fts-email-bot
+python main.py
+
 Configure the settings in the code:
 
 Specify BOT_TOKEN (your Telegram bot token from @BotFather)
@@ -75,4 +77,4 @@ Store the bot token and passwords securely
 Do not publish sensitive data publicly
 
 Contact
-For questions or suggestions, write to t.me/IntelBreak on Telegram.
+For questions or suggestions, write to t.me/IntelBreak on Telegram. I support languages ​​such as Russian, Ukrainian and English
